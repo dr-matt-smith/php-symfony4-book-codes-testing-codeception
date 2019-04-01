@@ -16,3 +16,9 @@ Below are links to the project for the TESTING part of the book
 
 4. https://github.com/dr-matt-smith/php-symfony4-book-codes-testing-codeception-04-forms
 
+
+## Start Project Template
+
+Here is a basic project with security and Codeception setup - suitable for basic project on:
+
+- https://github.com/dr-matt-smith/php-symfony4-book-codes-testing-codeception-0-templateProject
